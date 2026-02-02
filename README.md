@@ -1,2 +1,25 @@
-# Data-Structures-and-Algorithms
-A collection of Data Structures and Algorithms (DSA) problems solved in Python. The repository is organized by topics such as Linked Lists, Stacks, Queues, Arrays, and Strings, with a focus on interview preparation and improving problem-solving skills.
+# 📘 Data Structures and Algorithms (DSA)
+
+This repository contains my daily practice of **Data Structures and Algorithms** problems.
+
+## 🧩 Topics Covered
+- Linked List
+- Stack
+- Queue
+- Array
+- String
+- Recursion
+- Searching & Sorting
+- Trees (Upcoming)
+- Graphs (Upcoming)
+
+## 🛠 Languages Used
+- Python
+
+## 🎯 Purpose
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Maintain clean and structured DSA solutions
+
+## 🚀 Author
+Krishna
